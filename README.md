@@ -1,2 +1,2 @@
 # PS-study
-study PS (Problem Solving) by BOJ
+Study PS (Problem Solving) by BOJ
